@@ -1,0 +1,14 @@
+Sujet : Effet Ramsauer-Townsend
+
+Contexte scientifique
+- L'effet Ramsauer-Townsend est un phénomène où la section efficace de diffusion d'un électron par un atome de gaz noble s'annule pour certaines valeurs d'énergie
+- Ce phénomène a été observé en 1921 par Carl Ramsauer et John S. Townsend
+- Des expériences similaires ont été menées dans les années 1970 avec des atomes d'hélium 4
+
+Objectifs du projet
+1. Coder en Python un algorithme de résolution d'équations différentielles pour observer la propagation d'un paquet d'ondes (fait)
+2. Coder un algorithme permettant de trouver les états stationnaires (fait)
+3. Résoudre analytiquement le problème en cherchant les solutions de l'équation de Schrödinger indépendante du temps (à faire)
+4. Comparer les prédictions avec les mesures expérimentales (à faire)
+5. Étudier analytiquement le cas où la particule diffusée est décrite par un paquet d'ondes (à faire)
+6. Reprendre le travail avec un modèle de potentiel plus réaliste (étape optionnelle) (à faire)
